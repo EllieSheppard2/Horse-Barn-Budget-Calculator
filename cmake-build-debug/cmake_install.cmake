@@ -1,4 +1,4 @@
-# Install script for directory: /Users/elliesheppard/Desktop/M30EP-eesheppa
+# Install script for directory: /Users/elliesheppard/Desktop/Horse-Barn-Budget-Calculator
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/elliesheppard/Desktop/M30EP-eesheppa/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/elliesheppard/Desktop/Horse-Barn-Budget-Calculator/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -2,7 +2,7 @@ import sys
 import pandas as pd
 import matplotlib.pyplot as plt
 
-#running from terminal to test :
+#running from terminal to test, change first line to appropriate file path :
 # cd /Users/elliesheppard/Desktop/M30EP-eesheppa
 # python3 cost_visualizations.py cmake-build-debug/feed_costs.csv
 
